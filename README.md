@@ -56,4 +56,4 @@ Pull requests and feedback are welcome! If you have ideas for new features or fi
 
 ## 📫 Contact
 
-Built by [Hunter Garica](https://github.com/HunterBytes) — feel free to reach out with ideas or feedback!
+Built by [Hunter J](https://github.com/HunterBytes) — feel free to reach out with ideas or feedback!
